@@ -1,12 +1,10 @@
-//copyright Carauleanu Valentin Gabriel 311CAb
+# SENSORS - copyright Carauleanu Valentin Gabriel 311CAb
 
-Programul final utilizeaza urmatoarele 3 biblioteci statice: 
+My first homework at programming II.
 
-	-> commands.h : formata din functiile principale ale
-                programului: read, print, clear, sort, analyze si
-                free
+* Programm overview
+The final program uses the following 3 static libraries:
 
-	-> aux_functions.h : formata din functii
-                        auxiliare celor din commands.h
-
-	-> operations.h : formata din functia get_operations
+- `commands.h`: Composed of the main functions of the program: `read`, `print`, `clear`, `sort`, `analyze`, and `free`.
+- `aux_functions.h`: Composed of auxiliary functions to those in `commands.h`.
+- `operations.h`: Composed of the `get_operations` function.
